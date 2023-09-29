@@ -1,0 +1,8 @@
+#MODULOS E PACOTES(BIBLIOTECAS)
+
+    #MODULOS
+#VER PROJETO "modulos" AQUI NO PYCHARM
+
+    #PACOTES(BIBLIOTECAS)
+#pasta que contem modulos
+
